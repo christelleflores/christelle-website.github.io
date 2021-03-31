@@ -24,9 +24,9 @@ and dance team on campus.
 ### Fun Facts!
 
 > My zodiac sign is Cancer.
-> I'm a lefty :hand_left:
-> My favorite color is blue/green (teal?).
-> I think half-baked is the superior Ben & Jerry's ice cream flavor.
+>> I'm a lefty
+>>> My favorite color is blue/green (teal?).
+>>>> I think half-baked is the superior Ben & Jerry's ice cream flavor.
 
 ### PETS :dog:
 
