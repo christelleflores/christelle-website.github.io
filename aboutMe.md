@@ -34,7 +34,9 @@ jk I don't have any pets, but here's me with my roommate and fellow comp sci stu
 
 ![Me&Maddie](./assets/images/me-maddie.JPG)
 
+#### Other Pages
 
 Click to return to the home page or visit the projects page:
 
-[Home](./index)    [Projects](./projects)
+[HOME](./index)
+[PROJECTS](./projects)
