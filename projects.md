@@ -16,4 +16,5 @@ This project created a basic simulation of a DMV. The program greets the user, a
 I thought this project was creative and simple. It gave me more experience working with git and dealing with merge conflicts. I personally liked implementing the rude response feature.
 
 Click to return to the home page or visit the about page:
+
 [Home](./index)    [About Me](./aboutMe)
