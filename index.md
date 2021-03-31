@@ -2,7 +2,7 @@
 
 Welcome to my really really cool website :sunglasses:
 
-This is a basic website I was told to create for CSC109 haha.
+This is a basic website, but it's my first, so enjoy!
 
 ## For More Content:
 

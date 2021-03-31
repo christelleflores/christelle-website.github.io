@@ -17,7 +17,7 @@ I thought this project was creative and simple. It gave me more experience worki
 
 ## GPA Calculator
 
-**GitHub Repo**
+**GitHub Repo:**
 [https://github.com/sahalk903/GPAQU](https://github.com/sahalk903/GPAQU)
 
 This project created a simple program that calculates a user's GPA. It greets the user and asks them to enter their name, major, QU ID, courses, and grades received for those courses. The program uses a file writer which keeps track of the user's information along with the calculated gpa.
