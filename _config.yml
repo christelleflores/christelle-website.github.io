@@ -2,3 +2,5 @@ name: My-Website
 title: "Christelle's Website"
 plugins:
   - jemoji
+
+theme: jekyll-theme-minimal
