@@ -33,3 +33,6 @@ and dance team on campus.
 jk I don't have any pets, but here's me with my roommate and fellow comp sci student, madison.
 
 ![Me&Maddie](./assets/images/me-maddie.JPG)
+
+Click to return to the home page or visit the projects page:
+[Home](./index)    [Projects](./projects)
